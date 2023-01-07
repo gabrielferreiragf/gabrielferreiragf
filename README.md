@@ -1,7 +1,7 @@
 
 <h1>Hi I'm Gabriel</h1>
 <h2>Probably building something!🧑‍💻<h2/>
-<br> and IT Systems Analyst I at 
+<br>IT Systems Analyst I at 
 <a href="http://brazil.mom-gmr.org/en/owners/companies/detail/company/company/show/grupo-jaime-camara/" rel="nofollow">Grupo Jaime Câmara+</a>
 <p>Living in Goiânia, Brazil</p>
 
